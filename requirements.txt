@@ -1,5 +1,6 @@
 pandas
 mlflow==2.22.0
+ensure==1.0.4
 notebook
 numpy
 scikit-learn
